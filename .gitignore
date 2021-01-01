@@ -1,0 +1,7 @@
+*.pyc
+__ pycache __
+/node_modules
+/static/js/bundle.js
+/migrations
+/venv
+*.swp

@@ -1,0 +1,12 @@
+
+2020-12-30
+
+https://www.twilio.com/docs/usage/tutorials/how-to-set-up-your-python-and-flask-development-environment
+
+https://blog.csdn.net/culiu9261/article/details/107545419  // kill watchify
+
+https://pythonbasics.org/flask-rest-api/
+
+https://github.com/zertosh/jstify
+
+watchify -t jstify src/js/index.js -o static/js/bundle.js -v --debug
